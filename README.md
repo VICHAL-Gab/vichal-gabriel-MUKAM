@@ -1,82 +1,82 @@
 # vichal-gabriel-MUKAM
-# 👋 Hi, I'm Vichal Gabriel Mukam
+# 👋 Bonjour, je suis Vichal Gabriel Mukam
 
-🎓 Data Analyst | Microsoft Fabric Specialist | Aspiring Data Scientist  
-📍 Based in France | Open to full-time and freelance opportunities  
-
----
-
-## 🚀 About Me
-
-I’m a passionate Data Engineer/Analyst with a strong background in data modeling, business insight generation, and cloud automation. I thrive in multidisciplinary teams and enjoy turning data into strategic value through clear reporting and intelligent automation.
+🎓 Data Analyst | Spécialiste Microsoft Fabric | Futur Data Scientist  
+📍 Basé en France | Ouvert aux opportunités en CDI ou freelance  
 
 ---
 
-## 💼 Experience
+## 🚀 À propos de moi
+
+Ingénieur Data passionné, je me spécialise dans la modélisation de données, l’automatisation des processus métiers, l’analyse de performance et la visualisation stratégique. Curieux et rigoureux, j’aime transformer la complexité technique en solutions accessibles et efficaces.
+
+---
+
+## 💼 Expériences professionnelles
 
 ### 🔹 Data Analyst – BNP Paribas Personal Finance (2023 – 2024)
-- Designed and automated credit processing pipelines using **Power Automate**, **Power BI**, and **Python**
-- Created custom dashboards for tracking customer service performance and loan allocations
-- Implemented workflows reducing manual processing time by over **20%**
-- Built evaluation tools for call center managers to assess service quality
-- Participated in **Agile** ceremonies and technical documentation
+- Automatisation des processus de crédit via **Power Automate**, **Power BI**, **Python**, et **Microsoft List**
+- Création de dashboards pour le suivi de la performance client B2B/B2C
+- Mise en place de workflows automatisés, réduisant le temps de traitement de **20%**
+- Outils d’évaluation de la qualité des appels pour les centres de contact
+- Participation active aux cérémonies **Agile** et à la documentation projet
 
 ### 🔹 Data Scientist – SPIE CityNetworks (2023)
-- Built predictive models (**Regression**, **Random Forest**, **XGBoost**, **KMeans**) to forecast project durations and detect risks
-- Centralized and transformed field data with **Power Query** and **Python**
-- Developed Power BI dashboards for monitoring technician performance and worksite progress
-- Helped improve planning and reduced delays by over **20%**
-- Simplified tech concepts for stakeholders through clear communication
+- Développement de modèles prédictifs (**régression**, **Random Forest**, **XGBoost**, **KMeans**)
+- Traitement de données terrain via **Power Query** et **Python**
+- Tableaux de bord Power BI pour le suivi des chantiers et la détection des retards
+- Gain de performance et meilleure planification pour la direction
+- Vulgarisation technique à destination des équipes métiers
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Compétences techniques
 
-**Languages & ML**  
+**Langages & Machine Learning**  
 `Python` `PySpark` `SQL` `R` `Java`  
-`Random Forest` `Classification` `Regression` `Clustering`  
+`Random Forest` `Régression` `Classification` `Clustering`  
 
-**Cloud & Automation**  
-`Microsoft Fabric` `Power Automate` `Azure Notebooks` `SharePoint` `Real-Time Alerts`
+**Cloud & Automatisation**  
+`Microsoft Fabric` `Power Automate` `Azure Notebooks` `SharePoint` `Alertes Temps Réel`
 
-**Databases**  
+**Bases de données**  
 `PostgreSQL` `MySQL` `MongoDB`
 
-**BI & Visualization**  
+**Visualisation & BI**  
 `Power BI` `Tableau` `Excel`
 
-**Tools & DevOps**  
+**Outils & Méthodologies**  
 `Git` `CI/CD` `Scrum` `Agile`
 
 ---
 
-## 📚 Education & Certifications
+## 🎓 Formation & Certifications
 
-🎓 **Engineering degree in Computer Science (MSc), Data Science & Finance**  
-*ESIGELEC – Rouen, France (2021–2024)*
+🎓 **Diplôme d’ingénieur en Informatique – Data Science & Finance**  
+*ESIGELEC – Rouen (2021–2024)*
 
-🎓 *In progress*:  
+🎯 En cours :
 - Microsoft Certified Azure Fundamentals – **DP-900**  
 - Microsoft Certified Fabric Analytics Engineer – **DP-600**
 
 ---
 
-## 🌍 Languages
-- 🇫🇷 French – Native  
-- 🇬🇧 English – Professional (TOEIC 815)  
-- 🇩🇪 German – A1  
+## 🌍 Langues
+- 🇫🇷 Français – Langue maternelle  
+- 🇬🇧 Anglais – Professionnel (TOEIC 815)  
+- 🇩🇪 Allemand – A1  
 
 ---
 
-## 📈 Featured Projects
+## 📊 Projets en vedette
 
-- [📊 Microcredit Pipeline – Microsoft Fabric](#) *(coming soon on GitHub)*  
-- [📈 B2C Call Center Performance Dashboard](#)  
-- [⚙️ Predictive Modeling for Construction Sites (SPIE)](#)  
+- [📊 Pipeline Microcrédit – Microsoft Fabric](#) *(à venir sur GitHub)*  
+- [📈 Dashboard B2C – Centre d'appels & qualité client](#)  
+- [⚙️ Modèles prédictifs pour chantiers (SPIE)](#)  
 
 ---
 
-## 📬 Contact Me
+## 📬 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vichal-gabriel-mukam-091620232/)  
 📧 mukamvichal@gmail.com  
@@ -84,5 +84,4 @@ I’m a passionate Data Engineer/Analyst with a strong background in data modeli
 
 ---
 
-_“Turning complexity into clarity through data.”_
-
+_« Transformer la complexité en clarté grâce à la donnée. »_
