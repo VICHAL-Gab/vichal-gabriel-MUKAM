@@ -1,4 +1,4 @@
-# vichal-gabriel-MUKAM
+
 # 👋 Bonjour, je suis Vichal Gabriel Mukam
 
 🎓 Data Analyst | Spécialiste Microsoft Fabric | Futur Data Scientist  
